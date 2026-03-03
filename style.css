@@ -1,9 +1,4 @@
-table {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-th,
-td {
-    border: 1px solid black;
+.logo {
+  width: 200px;
+  margin: 10px 30px;
 }
